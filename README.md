@@ -14,6 +14,8 @@ The live contract addresses are [here](https://www.notion.so/primitivefi/dc3b883
 
 We use [Hardhat](https://hardhat.org) as a development environment for compiling, testing, and deploying the contracts.
 
+SushiswapConnector: `0xb026991da22f7D8F51550D5f99C39DdBc1c02089`
+
 ## Testing
 
 ### Run Tests
